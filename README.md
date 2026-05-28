@@ -1,23 +1,26 @@
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
-<!-- │   sweetcornna · profile readme · editorial layout                        │ -->
-<!-- │   Hero: corlinman (personal AI agent). Other 4 in 2×2 grid.          │ -->
-<!-- │   No reliance on github-readme-stats / trophy (currently 503/402).   │ -->
+<!-- │   cornna · profile readme                                            │ -->
+<!-- │   Visual system: Impressionist water lily — bright cobalt/cream      │ -->
+<!-- │   Palette:                                                           │ -->
+<!-- │     canvas  #F8FAFC      cobalt   #1E40AF                            │ -->
+<!-- │     cerulean #2563EB     sky      #60A5FA                            │ -->
+<!-- │     pale     #DBEAFE     ochre    #FBBF24                            │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B5CF6,100:0D1117&height=260&section=header&text=cornna&fontSize=104&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20Agent%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="hero" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:60A5FA,100:F8FAFC&height=260&section=header&text=cornna&fontSize=104&fontColor=1E40AF&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20Agent%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="hero" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=42&lines=Build+AI+agents+that+ship+real+work.;%E7%94%A8+LLM+%2B+MCP+%E6%8A%8A%E7%82%B9%E5%AD%90%E5%8F%98%E6%88%90%E4%BA%A7%E5%93%81%E3%80%82" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=900&color=1E40AF&center=true&vCenter=true&width=720&height=42&lines=Build+AI+agents+that+ship+real+work.;%E7%94%A8+LLM+%2B+MCP+%E6%8A%8A%E7%82%B9%E5%AD%90%E5%8F%98%E6%88%90%E4%BA%A7%E5%93%81%E3%80%82" alt="tagline" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sweetcornna&label=Views&color=8B5CF6&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/sweetcornna?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/Public%20repos-43-8B5CF6?style=flat-square&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Shipping-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=sweetcornna&label=Views&color=1E40AF&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/github/followers/sweetcornna?label=Followers&style=flat-square&color=1E40AF&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/Public%20repos-44-1E40AF?style=flat-square&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/Status-%F0%9F%92%99%20Shipping-1E40AF?style=flat-square&labelColor=F8FAFC" />
 
 </div>
 
@@ -25,7 +28,8 @@
 
 > ### 「我不是在编程，我在和 AI 协作，把脑子里的 *vibe* 落地成软件。」
 >
-> Education automation · AI agents · MCP servers · on-chain tools — 能用 LLM 撬动的事，都值得做一次。
+> 像水面上一道道扩散的涟漪——一个念头落进池子，AI 帮我把它推到岸边。
+> Education automation · AI agents · MCP servers · on-chain tools。
 >
 > *— Don't write code. Direct it.*
 
@@ -57,55 +61,55 @@ mantra:      "Ship the vibe, polish the rough edges later."
 
 <div align="center">
 
-[![langs](https://skillicons.dev/icons?i=py,ts,js,c,go,bash,html,css&theme=dark&perline=8)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=py,ts,js,c,go,bash,html,css&theme=light&perline=8)](https://skillicons.dev)
 
-[![ai](https://skillicons.dev/icons?i=openai,pytorch,tensorflow,sklearn,sqlite,postgres,redis,anaconda&theme=dark&perline=8)](https://skillicons.dev)
+[![ai](https://skillicons.dev/icons?i=openai,pytorch,tensorflow,sklearn,sqlite,postgres,redis,anaconda&theme=light&perline=8)](https://skillicons.dev)
 
-[![stack](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,vue,react,nextjs,tailwind&theme=dark&perline=8)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,vue,react,nextjs,tailwind&theme=light&perline=8)](https://skillicons.dev)
 
-[![infra](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,vim&theme=dark&perline=8)](https://skillicons.dev)
+[![infra](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,vscode,vim&theme=light&perline=8)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#0D1117','primaryTextColor':'#E5E7EB','primaryBorderColor':'#8B5CF6','lineColor':'#8B5CF6','tertiaryColor':'#0D1117','fontFamily':'Space Grotesk'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#DBEAFE','primaryTextColor':'#1E293B','primaryBorderColor':'#1E40AF','lineColor':'#2563EB','tertiaryColor':'#F8FAFC','fontFamily':'Space Grotesk','fontSize':'15px'}}}%%
 graph LR
     V((Vibe<br/>Coding)):::core
-    V --> A[AI Agents]:::ai
-    V --> M[MCP Servers]:::ai
-    V --> R[Edu Automation]:::ai
-    A --> P1[corlinman]:::prj
-    A --> P2[copy-trader]:::prj
-    M --> P3[free-search-mcp]:::prj
-    M --> P4[coin-mcp]:::prj
-    R --> P5[university-helper]:::prj
-    R --> P6[chaoxing-*]:::prj
-    V --> L[LLM Learning]:::ai
-    L --> P7[lingma]:::prj
-    L --> P8[mathodology]:::prj
+    V --> A[AI Agents]:::node
+    V --> M[MCP Servers]:::node
+    V --> R[Edu Automation]:::node
+    A --> P1[corlinman]:::leaf
+    A --> P2[copy-trader]:::leaf
+    M --> P3[free-search-mcp]:::leaf
+    M --> P4[coin-mcp]:::leaf
+    R --> P5[university-helper]:::leaf
+    R --> P6[chaoxing-*]:::leaf
+    V --> L[LLM Learning]:::node
+    L --> P7[lingma]:::leaf
+    L --> P8[mathodology]:::leaf
 
-    classDef core fill:#8B5CF6,stroke:#8B5CF6,stroke-width:3px,color:#fff,font-weight:bold
-    classDef ai fill:#1A1B27,stroke:#8B5CF6,stroke-width:1.5px,color:#E5E7EB
-    classDef prj fill:#0D1117,stroke:#8B5CF6,stroke-width:1px,color:#8B5CF6
+    classDef core fill:#1E40AF,stroke:#1E40AF,stroke-width:3px,color:#fff,font-weight:bold
+    classDef node fill:#DBEAFE,stroke:#2563EB,stroke-width:1.5px,color:#1E293B
+    classDef leaf fill:#F8FAFC,stroke:#60A5FA,stroke-width:1px,color:#1E40AF
 ```
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,10,20,30&height=4" alt="divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=4" alt="divider" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Signature%20Work&fontSize=44&fontColor=ffffff&fontAlignY=58&desc=%E2%96%8D%2003%20%E2%80%94%20%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81&descSize=14&descAlignY=82" alt="signature work" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8FAFC&height=80&section=header&text=Signature%20Work&fontSize=44&fontColor=1E40AF&fontAlignY=58&desc=%E2%96%8D%2003%20%E2%80%94%20%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81&descSize=14&descAlignY=82&descColor=1E40AF" alt="signature work" />
 </div>
 
 <br/>
 
-<!-- ╔══ HERO PROJECT — full-width flagship (corlinman, C-position) ══╗ -->
+<!-- ╔══ HERO PROJECT — corlinman, C-position ══╗ -->
 
 <a href="https://github.com/sweetcornna/corlinman">
   <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman cover" />
@@ -122,7 +126,7 @@ graph LR
 `Python` &nbsp;·&nbsp; `LLM` &nbsp;·&nbsp; `Agent Loop` &nbsp;·&nbsp; `Tools`
 
 <a href="https://github.com/sweetcornna/corlinman">
-  <img src="https://img.shields.io/badge/Open%20repo%20%E2%86%92-8B5CF6?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/Open%20repo%20%E2%86%92-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
 </a>
 
 </td>
@@ -131,7 +135,7 @@ graph LR
 
 <br/>
 
-<!-- ╔══ Other 4 projects — tight 2×2 grid ══╗ -->
+<!-- ╔══ Other 4 — 2×2 grid ══╗ -->
 
 <table>
 <tr>
@@ -210,46 +214,41 @@ graph LR
 
 <div align="center">
   <a href="https://github.com/sweetcornna?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2043%20repositories%20%E2%86%92-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
+    <img src="https://img.shields.io/badge/See%20all%2044%20repositories%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,10,20,30&height=4" alt="divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=4" alt="divider" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=80&section=header&text=Telemetry&fontSize=44&fontColor=ffffff&fontAlignY=58&desc=%E2%96%8D%2004%20%E2%80%94%20%E6%95%B0%E6%8D%AE%E7%94%BB%E5%83%8F&descSize=14&descAlignY=82" alt="telemetry" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8FAFC&height=80&section=header&text=Telemetry&fontSize=44&fontColor=1E40AF&fontAlignY=58&desc=%E2%96%8D%2004%20%E2%80%94%20%E6%95%B0%E6%8D%AE%E7%94%BB%E5%83%8F&descSize=14&descAlignY=82&descColor=1E40AF" alt="telemetry" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Stat shields row — all from shields.io (rock-solid) -->
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />
 
 <br/><br/>
 
-<!-- Streak card — proven reliable -->
-<img width="70%" src="https://streak-stats.demolab.com?user=sweetcornna&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&sideNums=8B5CF6&currStreakNum=EC4899" alt="streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sweetcornna&theme=highcontrast&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
 
 <br/><br/>
 
-<!-- Activity pulse — proven reliable -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sweetcornna&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse" alt="activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sweetcornna&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse&title_color=1E40AF" alt="activity" />
 
 <br/><br/>
 
-<!-- Snake — generated by Action, in-repo, fully reliable -->
 <img width="98%" src="https://raw.githubusercontent.com/sweetcornna/sweetcornna/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
@@ -260,10 +259,10 @@ graph LR
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-%C3%972-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A4%A0%20Quickdraw-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-%C3%972-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%A4%A0%20Quickdraw-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />
 
 </div>
 
@@ -274,13 +273,13 @@ graph LR
 <div align="center">
 
 <a href="https://github.com/sweetcornna">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=1E40AF" />
 </a>
 <a href="mailto:ymy_live@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Email-F8FAFC?style=for-the-badge&logo=gmail&logoColor=1E40AF" />
 </a>
 <a href="https://github.com/sweetcornna?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/All%20Repos-F8FAFC?style=for-the-badge&logo=github&logoColor=1E40AF" />
 </a>
 
 <br/><br/>
@@ -292,6 +291,6 @@ graph LR
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B5CF6,100:0D1117&height=120&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:60A5FA,100:DBEAFE&height=120&section=footer&animation=fadeIn" />
   <sub><i>Made with vibe — directed, not written.</i></sub>
 </div>
