@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ymylive
+          github_user_name: sweetcornna
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#EC4899&color_dots=#1A1B27,#4C1D95,#7C3AED,#A855F7,#EC4899
             dist/github-contribution-grid-snake-dark.svg?color_snake=#EC4899&color_dots=#1A1B27,#4C1D95,#7C3AED,#A855F7,#EC4899

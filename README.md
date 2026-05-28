@@ -1,5 +1,5 @@
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
-<!-- │   ymylive · profile readme · editorial layout                        │ -->
+<!-- │   sweetcornna · profile readme · editorial layout                        │ -->
 <!-- │   Hero: corlinman (personal AI agent). Other 4 in 2×2 grid.          │ -->
 <!-- │   No reliance on github-readme-stats / trophy (currently 503/402).   │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
@@ -14,8 +14,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ymylive&label=Views&color=8B5CF6&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/ymylive?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sweetcornna&label=Views&color=8B5CF6&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/github/followers/sweetcornna?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117" />&nbsp;
 <img src="https://img.shields.io/badge/Public%20repos-43-8B5CF6?style=flat-square&labelColor=0D1117" />&nbsp;
 <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Shipping-8B5CF6?style=flat-square&labelColor=0D1117" />
 
@@ -35,7 +35,7 @@
 
 ```yaml
 name:        cornna
-handle:      ymylive  (github.com/ymylive)
+handle:      sweetcornna  (github.com/sweetcornna)
 title:       AI-Native Developer / Vibe Coder
 specialty:   [LLM apps, AI agents, MCP servers, automation]
 languages:   [Python, TypeScript, C, Go, Shell]
@@ -107,7 +107,7 @@ graph LR
 
 <!-- ╔══ HERO PROJECT — full-width flagship (corlinman, C-position) ══╗ -->
 
-<a href="https://github.com/ymylive/corlinman">
+<a href="https://github.com/sweetcornna/corlinman">
   <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman cover" />
 </a>
 
@@ -121,7 +121,7 @@ graph LR
 
 `Python` &nbsp;·&nbsp; `LLM` &nbsp;·&nbsp; `Agent Loop` &nbsp;·&nbsp; `Tools`
 
-<a href="https://github.com/ymylive/corlinman">
+<a href="https://github.com/sweetcornna/corlinman">
   <img src="https://img.shields.io/badge/Open%20repo%20%E2%86%92-8B5CF6?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
 </a>
 
@@ -138,7 +138,7 @@ graph LR
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/ymylive/university-helper">
+<a href="https://github.com/sweetcornna/university-helper">
   <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper cover" />
 </a>
 
@@ -148,13 +148,13 @@ graph LR
 
 <sub>`Python` · `FastAPI` · `Docker` · `Async`</sub>
 
-<a href="https://github.com/ymylive/university-helper">Open repo →</a>
+<a href="https://github.com/sweetcornna/university-helper">Open repo →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/ymylive/mathodology">
+<a href="https://github.com/sweetcornna/mathodology">
   <img width="100%" src="./assets/projects/mathodology.png" alt="mathodology cover" />
 </a>
 
@@ -164,7 +164,7 @@ graph LR
 
 <sub>`Python` · `LLM` · `RAG` · `Collab`</sub>
 
-<a href="https://github.com/ymylive/mathodology">Open repo →</a>
+<a href="https://github.com/sweetcornna/mathodology">Open repo →</a>
 
 </td>
 
@@ -173,7 +173,7 @@ graph LR
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/ymylive/lingma">
+<a href="https://github.com/sweetcornna/lingma">
   <img width="100%" src="./assets/projects/lingma.png" alt="lingma cover" />
 </a>
 
@@ -183,13 +183,13 @@ graph LR
 
 <sub>`TypeScript` · `Vue` · `LLM` · `EdTech`</sub>
 
-<a href="https://github.com/ymylive/lingma">Open repo →</a>
+<a href="https://github.com/sweetcornna/lingma">Open repo →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/ymylive/free-search-mcp">
+<a href="https://github.com/sweetcornna/free-search-mcp">
   <img width="100%" src="./assets/projects/free-search-mcp.png" alt="free-search-mcp cover" />
 </a>
 
@@ -199,7 +199,7 @@ graph LR
 
 <sub>`Python` · `MCP` · `Playwright` · `SQLite`</sub>
 
-<a href="https://github.com/ymylive/free-search-mcp">Open repo →</a>
+<a href="https://github.com/sweetcornna/free-search-mcp">Open repo →</a>
 
 </td>
 
@@ -209,7 +209,7 @@ graph LR
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ymylive?tab=repositories">
+  <a href="https://github.com/sweetcornna?tab=repositories">
     <img src="https://img.shields.io/badge/See%20all%2043%20repositories%20%E2%86%92-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
   </a>
 </div>
@@ -232,25 +232,25 @@ graph LR
 
 <!-- Stat shields row — all from shields.io (rock-solid) -->
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />
 
 <br/><br/>
 
 <!-- Streak card — proven reliable -->
-<img width="70%" src="https://streak-stats.demolab.com?user=ymylive&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&sideNums=8B5CF6&currStreakNum=EC4899" alt="streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=sweetcornna&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&sideNums=8B5CF6&currStreakNum=EC4899" alt="streak" />
 
 <br/><br/>
 
 <!-- Activity pulse — proven reliable -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymylive&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse" alt="activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sweetcornna&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse" alt="activity" />
 
 <br/><br/>
 
 <!-- Snake — generated by Action, in-repo, fully reliable -->
-<img width="98%" src="https://raw.githubusercontent.com/ymylive/ymylive/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="98%" src="https://raw.githubusercontent.com/sweetcornna/sweetcornna/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -273,13 +273,13 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/ymylive">
+<a href="https://github.com/sweetcornna">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
 </a>
 <a href="mailto:ymy_live@outlook.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
 </a>
-<a href="https://github.com/ymylive?tab=repositories">
+<a href="https://github.com/sweetcornna?tab=repositories">
   <img src="https://img.shields.io/badge/All%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
 </a>
 
