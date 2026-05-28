@@ -1,8 +1,7 @@
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
-<!-- │   ymylive · profile readme                                           │ -->
-<!-- │   AI-Native Developer · Vibe Coder · Agent Builder                   │ -->
-<!-- │   Editorial layout — single hero, 4-color discipline, no horizontal  │ -->
-<!-- │   rules. Major sections use full-width SVG masthead bars.            │ -->
+<!-- │   ymylive · profile readme · editorial layout                        │ -->
+<!-- │   Hero: corlinman (personal AI agent). Other 4 in 2×2 grid.          │ -->
+<!-- │   No reliance on github-readme-stats / trophy (currently 503/402).   │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
@@ -17,7 +16,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ymylive&label=Views&color=8B5CF6&style=flat-square" />&nbsp;
 <img src="https://img.shields.io/github/followers/ymylive?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117" />&nbsp;
-<img src="https://img.shields.io/github/stars/ymylive?label=Stars&style=flat-square&color=8B5CF6&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/Public%20repos-43-8B5CF6?style=flat-square&labelColor=0D1117" />&nbsp;
 <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Shipping-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </div>
@@ -105,23 +104,23 @@ graph LR
 
 <br/>
 
-<!-- ╔══ HERO PROJECT — full-width flagship ══╗ -->
+<!-- ╔══ HERO PROJECT — full-width flagship (corlinman, C-position) ══╗ -->
 
-<a href="https://github.com/ymylive/university-helper">
-  <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper cover" />
+<a href="https://github.com/ymylive/corlinman">
+  <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman cover" />
 </a>
 
 <table>
 <tr>
 <td valign="middle">
 
-### `01` &nbsp; university-helper&nbsp;·&nbsp;校园自动化中枢
+### `01` &nbsp; corlinman&nbsp;·&nbsp;个人 AI 智能体
 
-> 一站式打通 **智慧树 · 学习通 · 签到** 的全自动学习平台。**Docker 一键部署**，关掉网页后端照跑——把"学习"这件事从你日历里彻底删掉。
+> 我自己的 **24×7 数字分身**——日程、提醒、长程任务、跨平台联动全交给它。**Vibe-coded from scratch**，把"如果有个助理就好了"变成了一连串 git push。这是我对 AI agent 形态的私人押注。
 
-`Python` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Async`
+`Python` &nbsp;·&nbsp; `LLM` &nbsp;·&nbsp; `Agent Loop` &nbsp;·&nbsp; `Tools`
 
-<a href="https://github.com/ymylive/university-helper">
+<a href="https://github.com/ymylive/corlinman">
   <img src="https://img.shields.io/badge/Open%20repo%20%E2%86%92-8B5CF6?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
 </a>
 
@@ -138,17 +137,17 @@ graph LR
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/ymylive/corlinman">
-  <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman cover" />
+<a href="https://github.com/ymylive/university-helper">
+  <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper cover" />
 </a>
 
-#### `02` &nbsp; corlinman&nbsp;·&nbsp;个人 AI 智能体
+#### `02` &nbsp; university-helper&nbsp;·&nbsp;校园自动化中枢
 
-24×7 数字分身——日程、提醒、自动化任务全交给它。**Vibe-coded from scratch**。
+一站式打通 **智慧树 · 学习通 · 签到**，**Docker 一键部署**，关掉网页后端照跑。
 
-<sub>`Python` · `LLM` · `Agent` · `Tools`</sub>
+<sub>`Python` · `FastAPI` · `Docker` · `Async`</sub>
 
-<a href="https://github.com/ymylive/corlinman">Open repo →</a>
+<a href="https://github.com/ymylive/university-helper">Open repo →</a>
 
 </td>
 
@@ -230,29 +229,40 @@ graph LR
 
 <div align="center">
 
-<!-- name card: stats full-width -->
-<img width="98%" src="https://github-readme-stats.vercel.app/api?username=ymylive&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E7EB&card_width=820&hide_rank=false" />
+<!-- Stat shields row — all from shields.io (rock-solid) -->
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fymylive&color=8B5CF6&labelColor=0D1117&style=for-the-badge&logo=github" />
 
 <br/><br/>
 
-<!-- 1×2 supporting cards -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymylive&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=E5E7EB&card_width=405" />
-<img height="170" src="https://streak-stats.demolab.com?user=ymylive&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&sideNums=8B5CF6&currStreakNum=EC4899&card_width=405" />
+<!-- Streak card — proven reliable -->
+<img width="70%" src="https://streak-stats.demolab.com?user=ymylive&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=8B5CF6&sideNums=8B5CF6&currStreakNum=EC4899" alt="streak" />
 
 <br/><br/>
 
-<!-- activity pulse: full-width -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymylive&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse" />
+<!-- Activity pulse — proven reliable -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ymylive&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area_color=8B5CF6&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse" alt="activity" />
 
 <br/><br/>
 
-<!-- snake: full-width -->
+<!-- Snake — generated by Action, in-repo, fully reliable -->
 <img width="98%" src="https://raw.githubusercontent.com/ymylive/ymylive/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-<br/><br/>
+</div>
 
-<!-- trophies: muted gold accent, compact single row -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ymylive&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Experience" />
+<br/>
+
+### ▍ Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-%C3%972-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%A4%A0%20Quickdraw-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-%C3%971-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
