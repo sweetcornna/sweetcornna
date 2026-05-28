@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B5CF6,100:0D1117&height=260&section=header&text=ymylive&fontSize=104&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20Agent%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="hero" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B5CF6,100:0D1117&height=260&section=header&text=cornna&fontSize=104&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20Agent%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="hero" />
 
 <br/>
 
@@ -34,7 +34,8 @@
 ## ▍ 01 — Identity
 
 ```yaml
-name:        ymylive
+name:        cornna
+handle:      ymylive  (github.com/ymylive)
 title:       AI-Native Developer / Vibe Coder
 specialty:   [LLM apps, AI agents, MCP servers, automation]
 languages:   [Python, TypeScript, C, Go, Shell]
