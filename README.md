@@ -275,7 +275,7 @@ graph LR
 <a href="https://github.com/ymylive">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" />
 </a>
-<a href="mailto:denis_dolorumgul@mail.com">
+<a href="mailto:ymy_live@outlook.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
 </a>
 <a href="https://github.com/ymylive?tab=repositories">
