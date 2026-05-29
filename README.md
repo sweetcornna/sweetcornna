@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- ░░ HERO — custom painted masthead, title baked into the artwork (true background version) ░░ -->
-<img width="100%" src="./assets/hero.png" alt="cornna — AI-Native Developer · Vibe Coder · Agent Builder" />
+<img width="100%" src="./assets/hero-v2.png" alt="cornna — AI-Native Developer · Vibe Coder · Agent Builder" />
 
 </div>
 
