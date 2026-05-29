@@ -1,52 +1,51 @@
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
 <!-- │   cornna · profile readme                                            │ -->
-<!-- │   Visual system: Impressionist water lily — bright cobalt/cream      │ -->
-<!-- │   Palette:                                                           │ -->
-<!-- │     canvas  #F8FAFC      cobalt   #1E40AF                            │ -->
-<!-- │     cerulean #2563EB     sky      #60A5FA                            │ -->
-<!-- │     pale     #DBEAFE     ochre    #FBBF24                            │ -->
+<!-- │   Concept: a curated exhibition. Custom-painted hero, serif placard  │ -->
+<!-- │   typography, framed gallery of works. Impressionist water-lily.     │ -->
+<!-- │   canvas #F8FAFC · cobalt #1E40AF · cerulean #2563EB                 │ -->
+<!-- │   sky #60A5FA · pale #DBEAFE · ochre #FBBF24                         │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:60A5FA,100:F8FAFC&height=260&section=header&text=cornna&fontSize=104&fontColor=1E40AF&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20Agent%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="hero" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=900&color=1E40AF&center=true&vCenter=true&width=720&height=42&lines=Build+AI+agents+that+ship+real+work.;%E7%94%A8+LLM+%2B+MCP+%E6%8A%8A%E7%82%B9%E5%AD%90%E5%8F%98%E6%88%90%E4%BA%A7%E5%93%81%E3%80%82" alt="tagline" />
+<!-- ░░ HERO — custom painted masthead (not a template banner) ░░ -->
+<img width="100%" src="./assets/hero.png" alt="cornna — a water garden at dawn" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sweetcornna&label=Views&color=1E40AF&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/sweetcornna?label=Followers&style=flat-square&color=1E40AF&labelColor=F8FAFC" />&nbsp;
-<img src="https://img.shields.io/badge/Public%20repos-44-1E40AF?style=flat-square&labelColor=F8FAFC" />&nbsp;
-<img src="https://img.shields.io/badge/Status-%F0%9F%92%99%20Shipping-1E40AF?style=flat-square&labelColor=F8FAFC" />
+<!-- ░░ NAME — serif placard, museum-label energy ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=58&duration=4000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&height=90&lines=cornna" alt="cornna" />
+
+<!-- ░░ TAGLINE — mono counterpoint to the serif ░░ -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=720&height=34&lines=AI-Native+Developer+%C2%B7+Vibe+Coder+%C2%B7+Agent+Builder;%E7%94%A8+LLM+%2B+MCP+%E6%8A%8A%E8%84%91%E5%AD%90%E9%87%8C%E7%9A%84+vibe+%E8%90%BD%E5%9C%B0%E6%88%90%E8%BD%AF%E4%BB%B6" alt="tagline" />
 
 </div>
 
 <br/>
 
-> ### 「我不是在编程，我在和 AI 协作，把脑子里的 *vibe* 落地成软件。」
->
+> 「我不是在编程，我在和 AI 协作，把脑子里的 *vibe* 落地成软件。」
 > 像水面上一道道扩散的涟漪——一个念头落进池子，AI 帮我把它推到岸边。
-> Education automation · AI agents · MCP servers · on-chain tools。
 >
-> *— Don't write code. Direct it.*
+> *Don't write code. Direct it.*
 
 <br/>
 
-## ▍ 01 — Identity
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 01 — Identity&nbsp;·&nbsp;关于我
 
 ```yaml
 name:        cornna
-handle:      sweetcornna  (github.com/sweetcornna)
+handle:      sweetcornna  ·  github.com/sweetcornna
 title:       AI-Native Developer / Vibe Coder
-specialty:   [LLM apps, AI agents, MCP servers, automation]
 languages:   [Python, TypeScript, C, Go, Shell]
 domains:
   - Educational automation     # chaoxing / zhihuishu 全家桶
-  - AI agents & assistants     # personal agents, copy-trader, corlinman
-  - MCP ecosystem              # free-search-mcp, coin-mcp, valuescan-mcp
+  - AI agents & assistants     # corlinman, copy-trader
+  - MCP ecosystem              # free-search-mcp, coin-mcp
   - Network & infrastructure   # OpenWrt plugins, clash, drcom
 strengths:
   - Turn a vague idea into a working prototype in one evening.
@@ -57,7 +56,11 @@ mantra:      "Ship the vibe, polish the rough edges later."
 
 <br/>
 
-## ▍ 02 — Arsenal
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 02 — Arsenal&nbsp;·&nbsp;技术栈
 
 <div align="center">
 
@@ -98,21 +101,19 @@ graph LR
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=4" alt="divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
 </div>
+
+## ▍ 03 — Signature Work&nbsp;·&nbsp;精选作品
+
+<sub>A curated room. One flagship, four companions — each an oil study of what it does. · 一间策展室：一件主作，四件同行。</sub>
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8FAFC&height=80&section=header&text=Signature%20Work&fontSize=44&fontColor=1E40AF&fontAlignY=58&desc=%E2%96%8D%2003%20%E2%80%94%20%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81&descSize=14&descAlignY=82&descColor=1E40AF" alt="signature work" />
-</div>
-
-<br/>
-
-<!-- ╔══ HERO PROJECT — corlinman, C-position ══╗ -->
+<!-- ╔══ FLAGSHIP — corlinman, C-position ══╗ -->
 
 <a href="https://github.com/sweetcornna/corlinman">
-  <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman cover" />
+  <img width="100%" src="./assets/projects/corlinman.png" alt="corlinman — a glowing companion" />
 </a>
 
 <table>
@@ -123,10 +124,10 @@ graph LR
 
 > 我自己的 **24×7 数字分身**——日程、提醒、长程任务、跨平台联动全交给它。**Vibe-coded from scratch**，把"如果有个助理就好了"变成了一连串 git push。这是我对 AI agent 形态的私人押注。
 
-`Python` &nbsp;·&nbsp; `LLM` &nbsp;·&nbsp; `Agent Loop` &nbsp;·&nbsp; `Tools`
+<sub>*Personal AI agent — Python · LLM · Agent Loop · Tools — 2026*</sub>
 
 <a href="https://github.com/sweetcornna/corlinman">
-  <img src="https://img.shields.io/badge/Open%20repo%20%E2%86%92-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
+  <img src="https://img.shields.io/badge/Enter%20the%20repo%20%E2%86%92-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
 </a>
 
 </td>
@@ -135,7 +136,7 @@ graph LR
 
 <br/>
 
-<!-- ╔══ Other 4 — 2×2 grid ══╗ -->
+<!-- ╔══ COMPANIONS — 2×2 gallery ══╗ -->
 
 <table>
 <tr>
@@ -143,32 +144,32 @@ graph LR
 <td width="50%" valign="top">
 
 <a href="https://github.com/sweetcornna/university-helper">
-  <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper cover" />
+  <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper — campus dataflow" />
 </a>
 
 #### `02` &nbsp; university-helper&nbsp;·&nbsp;校园自动化中枢
 
 一站式打通 **智慧树 · 学习通 · 签到**，**Docker 一键部署**，关掉网页后端照跑。
 
-<sub>`Python` · `FastAPI` · `Docker` · `Async`</sub>
+<sub>*Campus automation hub — Python · FastAPI · Docker — 2026*</sub>
 
-<a href="https://github.com/sweetcornna/university-helper">Open repo →</a>
+<a href="https://github.com/sweetcornna/university-helper">Enter the repo →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="https://github.com/sweetcornna/mathodology">
-  <img width="100%" src="./assets/projects/mathodology.png" alt="mathodology cover" />
+  <img width="100%" src="./assets/projects/mathodology.png" alt="mathodology — integral and sigma" />
 </a>
 
 #### `03` &nbsp; mathodology&nbsp;·&nbsp;美赛 MCM 协作平台
 
 为数学建模竞赛打造的 **AI-augmented** 协作平台。论文 · 代码 · 数据 · 可视化一个工作流跑完。
 
-<sub>`Python` · `LLM` · `RAG` · `Collab`</sub>
+<sub>*MCM collaboration platform — Python · LLM · RAG — 2026*</sub>
 
-<a href="https://github.com/sweetcornna/mathodology">Open repo →</a>
+<a href="https://github.com/sweetcornna/mathodology">Enter the repo →</a>
 
 </td>
 
@@ -178,32 +179,32 @@ graph LR
 <td width="50%" valign="top">
 
 <a href="https://github.com/sweetcornna/lingma">
-  <img width="100%" src="./assets/projects/lingma.png" alt="lingma cover" />
+  <img width="100%" src="./assets/projects/lingma.png" alt="lingma — code blocks on water" />
 </a>
 
 #### `04` &nbsp; lingma 灵码&nbsp;·&nbsp;可视化编程学习
 
 **AI 出题 × 可视化编程**，让初学者真的学得动。LLM 生成阶梯练习，拖拽即跑。
 
-<sub>`TypeScript` · `Vue` · `LLM` · `EdTech`</sub>
+<sub>*Visual coding classroom — TypeScript · Vue · LLM — 2026*</sub>
 
-<a href="https://github.com/sweetcornna/lingma">Open repo →</a>
+<a href="https://github.com/sweetcornna/lingma">Enter the repo →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="https://github.com/sweetcornna/free-search-mcp">
-  <img width="100%" src="./assets/projects/free-search-mcp.png" alt="free-search-mcp cover" />
+  <img width="100%" src="./assets/projects/free-search-mcp.png" alt="free-search-mcp — magnifier and nodes" />
 </a>
 
 #### `05` &nbsp; free-search-mcp&nbsp;·&nbsp;零密钥搜索 MCP
 
 让任何 LLM Agent 拥有联网能力——多引擎 + Playwright 回退 + FTS5 缓存，**无需 API Key**。
 
-<sub>`Python` · `MCP` · `Playwright` · `SQLite`</sub>
+<sub>*Keyless search MCP — Python · MCP · Playwright — 2026*</sub>
 
-<a href="https://github.com/sweetcornna/free-search-mcp">Open repo →</a>
+<a href="https://github.com/sweetcornna/free-search-mcp">Enter the repo →</a>
 
 </td>
 
@@ -214,61 +215,54 @@ graph LR
 
 <div align="center">
   <a href="https://github.com/sweetcornna?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2044%20repositories%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
+    <img src="https://img.shields.io/badge/Browse%20all%2044%20works%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=4" alt="divider" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=F8FAFC&height=80&section=header&text=Telemetry&fontSize=44&fontColor=1E40AF&fontAlignY=58&desc=%E2%96%8D%2004%20%E2%80%94%20%E6%95%B0%E6%8D%AE%E7%94%BB%E5%83%8F&descSize=14&descAlignY=82&descColor=1E40AF" alt="telemetry" />
-</div>
-
-<br/>
+## ▍ 04 — Telemetry&nbsp;·&nbsp;数据画像
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />
+<img src="https://komarev.com/ghpvc/?username=sweetcornna&label=Profile%20views&color=1E40AF&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=1E40AF&labelColor=F8FAFC&style=flat-square&logo=github&logoColor=1E40AF" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=2563EB&labelColor=F8FAFC&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsweetcornna&color=2563EB&labelColor=F8FAFC&style=flat-square" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sweetcornna&theme=highcontrast&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
+<img width="68%" src="https://streak-stats.demolab.com?user=sweetcornna&theme=highcontrast&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sweetcornna&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=%E2%96%8D%20Contribution%20Pulse&title_color=1E40AF" alt="activity" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sweetcornna&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=1E40AF" alt="activity" />
 
 <br/><br/>
 
-<img width="98%" src="https://raw.githubusercontent.com/sweetcornna/sweetcornna/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="96%" src="https://raw.githubusercontent.com/sweetcornna/sweetcornna/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-### ▍ Achievements
-
-<div align="center">
-
+<sub>ACHIEVEMENTS</sub><br/>
 <img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-%C3%972-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A4%A0%20Quickdraw-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
-<img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-%C3%971-1E40AF?style=for-the-badge&labelColor=F8FAFC" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%A0%20Quickdraw-%C3%971-2563EB?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-%C3%971-2563EB?style=for-the-badge&labelColor=F8FAFC" />&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20YOLO-%C3%971-2563EB?style=for-the-badge&labelColor=F8FAFC" />
 
 </div>
 
 <br/>
 
-## ▍ 05 — Reach
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 05 — Reach&nbsp;·&nbsp;联系
 
 <div align="center">
 
@@ -284,7 +278,8 @@ graph LR
 
 <br/><br/>
 
-<sub>想合作 AI agent · MCP · 教育自动化 · 链上工具，邮件直接拍过来。</sub>
+<sub>想合作 AI agent · MCP · 教育自动化 · 链上工具，邮件直接拍过来。<br/>
+Open to collaborate on AI agents, MCP servers, education automation, and on-chain tooling.</sub>
 
 </div>
 
