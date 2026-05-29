@@ -8,17 +8,8 @@
 
 <div align="center">
 
-<!-- ░░ HERO — custom painted masthead (not a template banner) ░░ -->
-<img width="100%" src="./assets/hero.png" alt="cornna — a water garden at dawn" />
-
-<br/><br/>
-
-<!-- ░░ NAME — serif placard, museum-label energy ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=58&duration=4000&pause=1000&color=1E40AF&center=true&vCenter=true&width=600&height=90&lines=cornna" alt="cornna" />
-
-<!-- ░░ TAGLINE — mono counterpoint to the serif ░░ -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=720&height=34&lines=AI-Native+Developer+%C2%B7+Vibe+Coder+%C2%B7+Agent+Builder;%E7%94%A8+LLM+%2B+MCP+%E6%8A%8A%E8%84%91%E5%AD%90%E9%87%8C%E7%9A%84+vibe+%E8%90%BD%E5%9C%B0%E6%88%90%E8%BD%AF%E4%BB%B6" alt="tagline" />
+<!-- ░░ HERO — custom painted masthead, title baked into the artwork (true background version) ░░ -->
+<img width="100%" src="./assets/hero.png" alt="cornna — AI-Native Developer · Vibe Coder · Agent Builder" />
 
 </div>
 
