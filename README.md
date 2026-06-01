@@ -230,12 +230,12 @@ graph LR
 
 #### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-370k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="370k+ stars" />
 
-开源个人 AI Agent 运行时。**已合并 PR [#59164](https://github.com/openclaw/openclaw/pull/59164)** — `fix(gateway): emit subagent_ended hook`，落在运行时核心；另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
+开源个人 AI Agent 运行时。**已合并 PR [#87698](https://github.com/openclaw/openclaw/pull/87698)** — `fix(gateway): emit subagent_ended hook`（修复 issue #59164），落在运行时核心；另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
 
 <sub>*Merged a fix into the runtime core — more PRs in review.*</sub>
 
-<a href="https://github.com/openclaw/openclaw/pull/59164">
-  <img src="https://img.shields.io/badge/PR%20%2359164%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #59164 merged" />
+<a href="https://github.com/openclaw/openclaw/pull/87698">
+  <img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" />
 </a>
 
 </td>
@@ -244,7 +244,7 @@ graph LR
 
 #### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-175k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="175k+ stars" />
 
-Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**，覆盖并发 / 流式 / 重试：`anthropic` 流式重试、`cron` 异常恢复、Telegram 状态持久化；并在 fork [personal_hermes](https://github.com/sweetcornna/personal_hermes) 上做原创「人格 + 事件」扩展。
+Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**，覆盖并发 / 流式 / 重试：`anthropic` 流式重试、`cron` 异常恢复、Telegram 状态持久化；并在个人仓库 [personal_hermes](https://github.com/sweetcornna/personal_hermes) 上做原创「人格 + 事件」扩展。
 
 <sub>*Multiple fix PRs in review across concurrency / streaming / retry paths.*</sub>
 
