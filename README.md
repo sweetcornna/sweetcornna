@@ -1,5 +1,5 @@
 <!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
-<!-- │   cornna · profile readme                                            │ -->
+<!-- │   cornna · profile readme  (English — default)                       │ -->
 <!-- │   Concept: a curated exhibition. Custom-painted hero, serif placard  │ -->
 <!-- │   typography, framed gallery of works. Impressionist water-lily.     │ -->
 <!-- │   canvas #F8FAFC · cobalt #1E40AF · cerulean #2563EB                 │ -->
@@ -13,10 +13,15 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/English-1E40AF?style=for-the-badge&labelColor=1E40AF&color=1E40AF" alt="English" />
+  <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=60A5FA" alt="中文" /></a>
+</p>
+
 <br/>
 
-> 「我不是在编程，我在和 AI 协作，把脑子里的 *vibe* 落地成软件。」
-> 像水面上一道道扩散的涟漪——一个念头落进池子，AI 帮我把它推到岸边。
+> "I'm not writing code — I collaborate with AI to land the *vibe* in my head as software."
+> Like ripples spreading across water: a thought drops into the pond, and AI helps me push it to the shore.
 >
 > *Don't write code. Direct it.*
 
@@ -26,7 +31,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
 </div>
 
-## ▍ 01 — Identity&nbsp;·&nbsp;关于我
+## ▍ 01 — Identity
 
 ```yaml
 name:        cornna
@@ -34,8 +39,8 @@ handle:      sweetcornna  ·  github.com/sweetcornna
 title:       AI-Native Developer / Vibe Coder
 languages:   [Python, TypeScript, C, Go, Shell]
 domains:
-  - Educational automation     # chaoxing / zhihuishu 全家桶
-  - AI agents & assistants     # corlinman, copy-trader
+  - Educational automation     # chaoxing / zhihuishu toolkit
+  - AI agents & assistants     # corlinman
   - MCP ecosystem              # free-search-mcp, coin-mcp
   - Network & infrastructure   # OpenWrt plugins, clash, drcom
 strengths:
@@ -52,7 +57,7 @@ mantra:      "Ship the vibe, polish the rough edges later."
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
 </div>
 
-## ▍ 02 — Arsenal&nbsp;·&nbsp;技术栈
+## ▍ 02 — Arsenal
 
 <div align="center">
 
@@ -96,9 +101,9 @@ graph LR
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
 </div>
 
-## ▍ 03 — Signature Work&nbsp;·&nbsp;精选作品
+## ▍ 03 — Signature Work
 
-<sub>A curated room. One flagship, four companions — each an oil study of what it does. · 一间策展室：一件主作，四件同行。</sub>
+<sub>A curated room. One flagship, four companions — each an oil study of what it does.</sub>
 
 <br/>
 
@@ -112,9 +117,9 @@ graph LR
 <tr>
 <td valign="middle">
 
-### `01` &nbsp; corlinman&nbsp;·&nbsp;个人 AI 智能体
+### `01` &nbsp; corlinman&nbsp;·&nbsp;Personal AI Agent
 
-> 我自己的 **24×7 数字分身**——日程、提醒、长程任务、跨平台联动全交给它。**Vibe-coded from scratch**，把"如果有个助理就好了"变成了一连串 git push。这是我对 AI agent 形态的私人押注。
+> My own **24×7 digital alter-ego** — schedule, reminders, long-horizon tasks, cross-platform orchestration, all handed off to it. **Vibe-coded from scratch**, turning "I wish I had an assistant" into a long stream of git pushes. My personal bet on what an AI agent should be.
 
 <sub>*Personal AI agent — Python · LLM · Agent Loop · Tools — 2026*</sub>
 
@@ -139,9 +144,9 @@ graph LR
   <img width="100%" src="./assets/projects/university-helper.png" alt="university-helper — campus dataflow" />
 </a>
 
-#### `02` &nbsp; university-helper&nbsp;·&nbsp;校园自动化中枢
+#### `02` &nbsp; university-helper&nbsp;·&nbsp;Campus Automation Hub
 
-一站式打通 **智慧树 · 学习通 · 签到**，**Docker 一键部署**，关掉网页后端照跑。
+One-stop integration of **Zhihuishu · Chaoxing · check-in**, **one-click Docker deploy** — tasks keep running server-side after you close the tab.
 
 <sub>*Campus automation hub — Python · FastAPI · Docker — 2026*</sub>
 
@@ -155,9 +160,9 @@ graph LR
   <img width="100%" src="./assets/projects/mathodology.png" alt="mathodology — integral and sigma" />
 </a>
 
-#### `03` &nbsp; mathodology&nbsp;·&nbsp;美赛 MCM 协作平台
+#### `03` &nbsp; mathodology&nbsp;·&nbsp;MCM Collaboration Platform
 
-为数学建模竞赛打造的 **AI-augmented** 协作平台。论文 · 代码 · 数据 · 可视化一个工作流跑完。
+An **AI-augmented** platform for math-modeling contests. Paper · code · data · visualization — all in one workflow.
 
 <sub>*MCM collaboration platform — Python · LLM · RAG — 2026*</sub>
 
@@ -174,9 +179,9 @@ graph LR
   <img width="100%" src="./assets/projects/lingma.png" alt="lingma — code blocks on water" />
 </a>
 
-#### `04` &nbsp; lingma 灵码&nbsp;·&nbsp;可视化编程学习
+#### `04` &nbsp; lingma&nbsp;·&nbsp;Visual Coding Classroom
 
-**AI 出题 × 可视化编程**，让初学者真的学得动。LLM 生成阶梯练习，拖拽即跑。
+**AI-generated exercises × visual programming** so beginners actually keep going. The LLM writes step-by-step drills; drag the blocks and run.
 
 <sub>*Visual coding classroom — TypeScript · Vue · LLM — 2026*</sub>
 
@@ -190,9 +195,9 @@ graph LR
   <img width="100%" src="./assets/projects/free-search-mcp.png" alt="free-search-mcp — magnifier and nodes" />
 </a>
 
-#### `05` &nbsp; free-search-mcp&nbsp;·&nbsp;零密钥搜索 MCP
+#### `05` &nbsp; free-search-mcp&nbsp;·&nbsp;Keyless Search MCP
 
-让任何 LLM Agent 拥有联网能力——多引擎 + Playwright 回退 + FTS5 缓存，**无需 API Key**。
+Gives any LLM agent internet access — multi-engine + Playwright fallback + FTS5 cache, **no API key required**.
 
 <sub>*Keyless search MCP — Python · MCP · Playwright — 2026*</sub>
 
@@ -217,9 +222,9 @@ graph LR
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
 </div>
 
-## ▍ 04 — Open Source&nbsp;·&nbsp;开源贡献
+## ▍ 04 — Open Source
 
-<sub>Brushstrokes left on the giants — real bugs fixed in 170k–370k★ agent codebases. Every PR is a public, reviewable record. · 在巨作上落下的笔触：每个 PR 都是公开、可核对的记录。</sub>
+<sub>Brushstrokes left on the giants — real bugs fixed in 170k–370k★ agent codebases. Every PR is a public, reviewable record.</sub>
 
 <br/>
 
@@ -228,9 +233,9 @@ graph LR
 
 <td width="50%" valign="top">
 
-#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-370k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="370k+ stars" />
+#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-376k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="376k+ stars" />
 
-开源个人 AI Agent 运行时。**已合并 PR [#87698](https://github.com/openclaw/openclaw/pull/87698)** — `fix(gateway): emit subagent_ended hook`（修复 issue #59164），落在运行时核心；另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
+Open-source personal AI agent runtime. **Merged PR [#87698](https://github.com/openclaw/openclaw/pull/87698)** — `fix(gateway): emit subagent_ended hook` (fixes issue #59164), landing in the runtime core; more PRs in review. Same lineage as my own corlinman: local-first · files-as-skills/memory · multi-channel.
 
 <sub>*Merged a fix into the runtime core — more PRs in review.*</sub>
 
@@ -244,7 +249,7 @@ graph LR
 
 #### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-175k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="175k+ stars" />
 
-Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**，覆盖并发 / 流式 / 重试：`anthropic` 流式重试、`cron` 异常恢复、Telegram 状态持久化；并在个人仓库 [personal_hermes](https://github.com/sweetcornna/personal_hermes) 上做原创「人格 + 事件」扩展。
+Nous Research's open-source agent framework. Submitted **multiple fix PRs (in review)** across concurrency / streaming / retry paths — `anthropic` stale-stream retry, `cron` exception recovery, Telegram state persistence; plus original **persona + event** extensions in my own repo [personal_hermes](https://github.com/sweetcornna/personal_hermes).
 
 <sub>*Multiple fix PRs in review across concurrency / streaming / retry paths.*</sub>
 
@@ -263,7 +268,7 @@ Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
 </div>
 
-## ▍ 05 — Telemetry&nbsp;·&nbsp;数据画像
+## ▍ 05 — Telemetry
 
 <div align="center">
 
@@ -300,7 +305,7 @@ Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
 </div>
 
-## ▍ 06 — Reach&nbsp;·&nbsp;联系
+## ▍ 06 — Reach
 
 <div align="center">
 
@@ -316,8 +321,7 @@ Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**
 
 <br/><br/>
 
-<sub>想合作 AI agent · MCP · 教育自动化 · 链上工具，邮件直接拍过来。<br/>
-Open to collaborate on AI agents, MCP servers, education automation, and on-chain tooling.</sub>
+<sub>Open to collaborate on AI agents · MCP servers · education automation · on-chain tooling. Email me directly.</sub>
 
 </div>
 
