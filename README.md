@@ -47,7 +47,7 @@ strengths:
   - Turn a vague idea into a working prototype in one evening.
   - Wire LLMs to anything via MCP / function calls / RAG.
   - Build full-stack tools end-to-end (FE + BE + agent loop).
-  - Read & fix real bugs in 170k–370k★ agent codebases (openclaw merged · Hermes in review).
+  - Read & fix real bugs in 190k–380k★ agent codebases — merged PRs in both openclaw & Hermes.
 mantra:      "Ship the vibe, polish the rough edges later."
 ```
 
@@ -224,7 +224,7 @@ Gives any LLM agent internet access — multi-engine + Playwright fallback + FTS
 
 ## ▍ 04 — Open Source
 
-<sub>Brushstrokes left on the giants — real bugs fixed in 170k–370k★ agent codebases. Every PR is a public, reviewable record.</sub>
+<sub>Brushstrokes left on the giants — real bugs fixed in 190k–380k★ agent codebases. Every PR is a public, reviewable record.</sub>
 
 <br/>
 
@@ -233,29 +233,27 @@ Gives any LLM agent internet access — multi-engine + Playwright fallback + FTS
 
 <td width="50%" valign="top">
 
-#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-376k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="376k+ stars" />
+#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-379k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="379k+ stars" />
 
-Open-source personal AI agent runtime. **Merged PR [#87698](https://github.com/openclaw/openclaw/pull/87698)** — `fix(gateway): emit subagent_ended hook` (fixes issue #59164), landing in the runtime core; more PRs in review. Same lineage as my own corlinman: local-first · files-as-skills/memory · multi-channel.
+Open-source personal AI agent runtime (★379k). **2 PRs merged by maintainers** into the runtime core: [#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook` (+499/-5, gives plugin-SDK subagent runs a real lifecycle event via a proper `SubagentRunRecord`; fixes #59164); and [#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint` (fixes #89192). More PRs in review. Same lineage as my own corlinman: local-first · files-as-skills/memory · multi-channel.
 
-<sub>*Merged a fix into the runtime core — more PRs in review.*</sub>
+<sub>*2 fixes merged into the runtime core by maintainers — more PRs in review.*</sub>
 
-<a href="https://github.com/openclaw/openclaw/pull/87698">
-  <img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" />
-</a>
+<a href="https://github.com/openclaw/openclaw/pull/87698"><img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89508"><img src="https://img.shields.io/badge/PR%20%2389508%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89508 merged" /></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-175k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="175k+ stars" />
+#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-196k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="196k+ stars" />
 
-Nous Research's open-source agent framework. Submitted **multiple fix PRs (in review)** across concurrency / streaming / retry paths — `anthropic` stale-stream retry, `cron` exception recovery, Telegram state persistence; plus original **persona + event** extensions in my own repo [personal_hermes](https://github.com/sweetcornna/personal_hermes).
+Nous Research's open-source agent framework (★196k). **2 PRs merged by maintainers**: [#33817](https://github.com/NousResearch/hermes-agent/pull/33817) — `fix(gateway): FIFO queue for busy_input_mode` (+195/-7, preserves each rapid follow-up message as its own turn instead of overwriting one pending slot; closes #28503); and [#38098](https://github.com/NousResearch/hermes-agent/pull/38098) — `fix(docker): accept Unraid uid mappings` (fixes #38070). More fix PRs in review; plus original **persona + event** extensions in my own repo [personal_hermes](https://github.com/sweetcornna/personal_hermes).
 
-<sub>*Multiple fix PRs in review across concurrency / streaming / retry paths.*</sub>
+<sub>*2 PRs merged upstream by maintainers — concurrency & deployment fixes; more in review.*</sub>
 
-<a href="https://github.com/NousResearch/hermes-agent">
-  <img src="https://img.shields.io/badge/Fix%20PRs%20%C2%B7%20in%20review-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="Fix PRs in review" />
-</a>
+<a href="https://github.com/NousResearch/hermes-agent/pull/33817"><img src="https://img.shields.io/badge/PR%20%2333817%20%E2%9C%93%20MERGED-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="PR #33817 merged" /></a>
+<a href="https://github.com/NousResearch/hermes-agent/pull/38098"><img src="https://img.shields.io/badge/PR%20%2338098%20%E2%9C%93%20MERGED-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="PR #38098 merged" /></a>
 
 </td>
 
