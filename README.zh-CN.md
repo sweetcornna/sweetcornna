@@ -47,7 +47,7 @@ strengths:
   - Turn a vague idea into a working prototype in one evening.
   - Wire LLMs to anything via MCP / function calls / RAG.
   - Build full-stack tools end-to-end (FE + BE + agent loop).
-  - Read & fix real bugs in 170k–370k★ agent codebases (openclaw merged · Hermes in review).
+  - Read & fix real bugs in 190k–380k★ agent codebases — merged PRs in both openclaw & Hermes.
 mantra:      "Ship the vibe, polish the rough edges later."
 ```
 
@@ -224,7 +224,7 @@ graph LR
 
 ## ▍ 04 — Open Source&nbsp;·&nbsp;开源贡献
 
-<sub>Brushstrokes left on the giants — real bugs fixed in 170k–370k★ agent codebases. Every PR is a public, reviewable record. · 在巨作上落下的笔触：每个 PR 都是公开、可核对的记录。</sub>
+<sub>Brushstrokes left on the giants — real bugs fixed in 190k–380k★ agent codebases. Every PR is a public, reviewable record. · 在巨作上落下的笔触：每个 PR 都是公开、可核对的记录。</sub>
 
 <br/>
 
@@ -233,29 +233,27 @@ graph LR
 
 <td width="50%" valign="top">
 
-#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-370k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="370k+ stars" />
+#### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-379k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="379k+ stars" />
 
-开源个人 AI Agent 运行时。**已合并 PR [#87698](https://github.com/openclaw/openclaw/pull/87698)** — `fix(gateway): emit subagent_ended hook`（修复 issue #59164），落在运行时核心；另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
+开源个人 AI Agent 运行时（★379k）。**2 个 PR 被维护者合并**进运行时核心：[#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook`（+499/-5，通过补一个真实的 `SubagentRunRecord` 让插件 SDK 的 subagent 运行获得生命周期事件；修复 #59164）；以及 [#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint`（修复 #89192）。另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
 
-<sub>*Merged a fix into the runtime core — more PRs in review.*</sub>
+<sub>*2 fixes merged into the runtime core by maintainers — more PRs in review.*</sub>
 
-<a href="https://github.com/openclaw/openclaw/pull/87698">
-  <img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" />
-</a>
+<a href="https://github.com/openclaw/openclaw/pull/87698"><img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89508"><img src="https://img.shields.io/badge/PR%20%2389508%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89508 merged" /></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-175k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="175k+ stars" />
+#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-196k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="196k+ stars" />
 
-Nous Research 的开源 Agent 框架。提交**多个修复 PR（review 中）**，覆盖并发 / 流式 / 重试：`anthropic` 流式重试、`cron` 异常恢复、Telegram 状态持久化；并在个人仓库 [personal_hermes](https://github.com/sweetcornna/personal_hermes) 上做原创「人格 + 事件」扩展。
+Nous Research 的开源 Agent 框架（★196k）。**2 个 PR 被维护者合并**：[#33817](https://github.com/NousResearch/hermes-agent/pull/33817) — `fix(gateway): busy_input_mode 改用 FIFO 队列`（+195/-7，让快速连发的多条消息按到达顺序各自成为一轮，而非覆盖单个待处理槽；关闭 #28503）；以及 [#38098](https://github.com/NousResearch/hermes-agent/pull/38098) — `fix(docker): accept Unraid uid mappings`（修复 #38070）。另有多个修复 PR 在 review；并在个人仓库 [personal_hermes](https://github.com/sweetcornna/personal_hermes) 上做原创「人格 + 事件」扩展。
 
-<sub>*Multiple fix PRs in review across concurrency / streaming / retry paths.*</sub>
+<sub>*2 PRs merged upstream by maintainers — concurrency & deployment fixes; more in review.*</sub>
 
-<a href="https://github.com/NousResearch/hermes-agent">
-  <img src="https://img.shields.io/badge/Fix%20PRs%20%C2%B7%20in%20review-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="Fix PRs in review" />
-</a>
+<a href="https://github.com/NousResearch/hermes-agent/pull/33817"><img src="https://img.shields.io/badge/PR%20%2333817%20%E2%9C%93%20MERGED-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="PR #33817 merged" /></a>
+<a href="https://github.com/NousResearch/hermes-agent/pull/38098"><img src="https://img.shields.io/badge/PR%20%2338098%20%E2%9C%93%20MERGED-2563EB?style=for-the-badge&labelColor=F8FAFC&color=2563EB" alt="PR #38098 merged" /></a>
 
 </td>
 
