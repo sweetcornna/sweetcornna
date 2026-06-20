@@ -235,20 +235,21 @@ Gives any LLM agent internet access — multi-engine + Playwright fallback + FTS
 
 #### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-379k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="379k+ stars" />
 
-Open-source personal AI agent runtime (★379k). **2 PRs merged by maintainers** into the runtime core: [#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook` (+499/-5, gives plugin-SDK subagent runs a real lifecycle event via a proper `SubagentRunRecord`; fixes #59164); and [#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint` (fixes #89192). More PRs in review. Same lineage as my own corlinman: local-first · files-as-skills/memory · multi-channel.
+Open-source personal AI agent runtime (★379k). **3 PRs merged by maintainers** into the runtime core: [#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook` (+499/-5, gives plugin-SDK subagent runs a real lifecycle event via a proper `SubagentRunRecord`; fixes #59164); [#89806](https://github.com/openclaw/openclaw/pull/89806) — `fix(feishu): avoid axios interceptor internals` (+90/-35, registers the Feishu User-Agent override through the public interceptor API instead of mutating axios internals); and [#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint` (fixes #89192). More PRs in review. Same lineage as my own corlinman: local-first · files-as-skills/memory · multi-channel.
 
-<sub>*2 fixes merged into the runtime core by maintainers — more PRs in review.*</sub>
+<sub>*3 fixes merged into the runtime core by maintainers — more PRs in review.*</sub>
 
 <a href="https://github.com/openclaw/openclaw/pull/87698"><img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89806"><img src="https://img.shields.io/badge/PR%20%2389806%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89806 merged" /></a>
 <a href="https://github.com/openclaw/openclaw/pull/89508"><img src="https://img.shields.io/badge/PR%20%2389508%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89508 merged" /></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-196k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="196k+ stars" />
+#### Hermes Agent&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-197k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="197k+ stars" />
 
-Nous Research's open-source agent framework (★196k). **2 PRs merged by maintainers**: [#33817](https://github.com/NousResearch/hermes-agent/pull/33817) — `fix(gateway): FIFO queue for busy_input_mode` (+195/-7, preserves each rapid follow-up message as its own turn instead of overwriting one pending slot; closes #28503); and [#38098](https://github.com/NousResearch/hermes-agent/pull/38098) — `fix(docker): accept Unraid uid mappings` (fixes #38070). More fix PRs in review; plus original **persona + event** extensions in my own repo [personal_hermes](https://github.com/sweetcornna/personal_hermes).
+Nous Research's open-source agent framework (★197k). **2 PRs merged by maintainers**: [#33817](https://github.com/NousResearch/hermes-agent/pull/33817) — `fix(gateway): FIFO queue for busy_input_mode` (+195/-7, preserves each rapid follow-up message as its own turn instead of overwriting one pending slot; closes #28503); and [#38098](https://github.com/NousResearch/hermes-agent/pull/38098) — `fix(docker): accept Unraid uid mappings` (fixes #38070). More fix PRs in review; plus original **persona + event** extensions in my own repo [personal_hermes](https://github.com/sweetcornna/personal_hermes).
 
 <sub>*2 PRs merged upstream by maintainers — concurrency & deployment fixes; more in review.*</sub>
 
