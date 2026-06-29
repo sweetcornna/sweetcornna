@@ -235,13 +235,15 @@ graph LR
 
 #### openclaw&nbsp;·&nbsp;<img src="https://img.shields.io/badge/%E2%AD%90-379k%2B-FBBF24?style=flat-square&labelColor=1E40AF" alt="379k+ stars" />
 
-开源个人 AI Agent 运行时（★379k）。**3 个 PR 被维护者合并**进运行时核心：[#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook`（+499/-5，通过补一个真实的 `SubagentRunRecord` 让插件 SDK 的 subagent 运行获得生命周期事件；修复 #59164）；[#89806](https://github.com/openclaw/openclaw/pull/89806) — `fix(feishu): avoid axios interceptor internals`（+90/-35，改用公开 `request.use(...)` 拦截器 API 注入飞书 User-Agent，不再篡改 axios 内部）；以及 [#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint`（修复 #89192）。另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
+开源个人 AI Agent 运行时（★379k）。**5 个 PR 被维护者合并**进运行时核心和平台适配层：[#87698](https://github.com/openclaw/openclaw/pull/87698) — `fix(gateway): emit subagent_ended hook`（+499/-5，通过补一个真实的 `SubagentRunRecord` 让插件 SDK 的 subagent 运行获得生命周期事件；修复 #59164）；[#89508](https://github.com/openclaw/openclaw/pull/89508) — `fix(models): clarify provider model registration hint`（修复 #89192）；[#89800](https://github.com/openclaw/openclaw/pull/89800) — `fix(agents): resolve webchat current session status`（+133/-21，让 WebChat 的 `current` 正确指向有效请求方会话；修复 #89773）；[#89806](https://github.com/openclaw/openclaw/pull/89806) — `fix(feishu): avoid axios interceptor internals`（+90/-35，改用公开 `request.use(...)` 拦截器 API 注入飞书 User-Agent，不再篡改 axios 内部）；以及 [#89855](https://github.com/openclaw/openclaw/pull/89855) — `fix(telegram): avoid duplicate dm chat window context`（+96/-1，避免既有 Telegram 私聊会话重复注入 chat-window 上下文；修复 #87566）。另有多个 PR 在 review。方向与我的 corlinman 同源：本地优先 · 文件化 skills/memory · 多渠道接入。
 
-<sub>*3 fixes merged into the runtime core by maintainers — more PRs in review.*</sub>
+<sub>*5 fixes merged into the runtime core and platform adapters by maintainers — more PRs in review.*</sub>
 
 <a href="https://github.com/openclaw/openclaw/pull/87698"><img src="https://img.shields.io/badge/PR%20%2387698%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #87698 merged" /></a>
-<a href="https://github.com/openclaw/openclaw/pull/89806"><img src="https://img.shields.io/badge/PR%20%2389806%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89806 merged" /></a>
 <a href="https://github.com/openclaw/openclaw/pull/89508"><img src="https://img.shields.io/badge/PR%20%2389508%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89508 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89800"><img src="https://img.shields.io/badge/PR%20%2389800%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89800 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89806"><img src="https://img.shields.io/badge/PR%20%2389806%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89806 merged" /></a>
+<a href="https://github.com/openclaw/openclaw/pull/89855"><img src="https://img.shields.io/badge/PR%20%2389855%20%E2%9C%93%20MERGED-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" alt="PR #89855 merged" /></a>
 
 </td>
 
